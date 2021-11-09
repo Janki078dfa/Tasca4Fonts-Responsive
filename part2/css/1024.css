@@ -1,0 +1,13 @@
+@media (max-width: 1024px) {
+    .div-articles {
+        width: 100%;
+        display: flex;
+        flex-flow: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .floated {
+        width: 100% !important;
+        height: 100% !important;
+    }
+}
